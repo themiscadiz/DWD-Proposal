@@ -1,9 +1,14 @@
 # DWD Proposal for Final Project
 
 ## Description
-For my final project I want to work in a voting system where the user can vote they favorite pet from four options. Some of the things that I intend to apply is to get multiple options for voting, open a window for confirm vote, visualize in a graph the amoutn of vote per animal and have persisten data.
+For my final project I want to work in a voting system where the user can vote for their favorite pet from several options. Some of the things that I intend to apply:
+* is to get multiple options for voting, 
+* open a window to confirm vote, 
+* visualize in a graph the amount of votes per animal 
+* use a database for persisten data.
+
 ## Goals
-In this project my goal is to apply this concepts:
+In this project my goal is to apply:
 * html/css/js
 * Responsive design
 * Node.js 
