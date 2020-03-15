@@ -2,10 +2,10 @@
 
 ## Description
 For my final project I want to work in a voting system where the user can vote for their favorite pet from several options. Some of the things that I intend to apply:
-* is to get multiple options for voting, 
-* open a window to confirm vote, 
-* visualize in a graph the amount of votes per animal 
-* use a database for persisten data.
+* Get multiple options for voting, 
+* Open a window to confirm vote, 
+* Visualize in a graph the amount of votes per animal 
+* Use a database for persisten data.
 
 ## Goals
 In this project my goal is to apply:
